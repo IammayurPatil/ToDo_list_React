@@ -99,7 +99,7 @@ ol li {
 .fa-times:hover {
     color: crimson;
 }
-@media  (max-width: 768px) {
+/* @media  (max-width: 768px) {
     .center_div {
         width: 55px;
     }
@@ -116,4 +116,4 @@ ol li {
         color: #fff;
         font-size: 30px;
     }
-}
+} */
