@@ -37,7 +37,7 @@ h1 {
     font-family: "Audiowide", "sans-serif";
     padding: .9rem 0 .4rem 0;
     margin-bottom: 1.0rem;
-    font-size: 4.0rem;
+    font-size: 3.0rem;
     box-shadow: 0.9rem 0.9rem 1.9rem -0.1rem rgba(0, 0, 0, 0.3);
     
 
@@ -48,7 +48,7 @@ input {
     top: 1px;
     border: none;
     background: transparent;
-    font-size: 2.5rem;
+    font-size: 2.0rem;
     font-weight: 500;
     width: 60%;
     border-bottom:.2rem solid#8566aa;
@@ -153,7 +153,14 @@ ol li {
 }
 @media only screen and (min-width: 1280px) {
     .center_div {
-        width : 450px;
+        width : 200px;
+        height: 550px;
+    }
+}
+
+@media only screen and (min-width: 1028px) {
+    .center_div {
+        width : 300px;
     }
 }
 
