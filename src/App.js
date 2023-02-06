@@ -25,6 +25,7 @@ const App = () => {
         }
         )
     }
+    
   return (
     <>
      <div className='main_div'>
